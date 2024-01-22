@@ -8,4 +8,6 @@ Generic_student1: pizza
 
 Generic_student2: Lambalæri
 
+Generic_student3: pasta
+
 hallo
