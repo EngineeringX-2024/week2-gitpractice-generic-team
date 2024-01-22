@@ -1,0 +1,3 @@
+# Week 2 Git Practice
+Everyone need to put a line with their "codename and somthing favorites food, pet, etc'
+head 
