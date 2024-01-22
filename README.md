@@ -6,4 +6,6 @@ headinstructor:  donuts
 
 Generic_student1: pizza
 
+Generic_student2: Lambalæri
+
 hallo
