@@ -10,6 +10,6 @@ Generic_student2: Lambalæri
 
 Generic_student3: pasta
 
-Generic_student5: Dog
+Generic_student4: Dog
 
 hallo
