@@ -4,4 +4,6 @@ Everyone needs to put a line with their 'codename' and something interesting 'fa
 
 headinstructor:  donuts
 
+Generic_student1: pizza
+
 hallo
