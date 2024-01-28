@@ -12,4 +12,6 @@ Generic_student3: pasta
 
 Generic_student4: Dog
 
+Generic_student5: Sushi
+
 hallo
